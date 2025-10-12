@@ -1,0 +1,81 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap'); */
+
+/* @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap'); */
+
+
+@font-face {
+    font-family: "Inter";
+    src: url("./static/Inter_18pt-Bold.ttf");
+}
+
+/* h1 {
+    background: #000;
+    color: aliceblue; */
+/* font-family: "Inter", sans-serif;
+    font-family: "Mulish", sans-serif; */
+
+/* font-family: Inter; */
+
+/* text-shadow: -20px -20px 3px green; */
+/* text-shadow: -12px -10px 3px rgba(19,16,85,0.52);
+} */
+
+
+
+
+/* horizontal offset vertical offset blur-radius color */
+/* 
+p::first-letter{
+    font-size: 30px;
+    color: rebeccapurple;
+    font-family: "Inter";
+    font-style: italic;
+}
+
+a{
+    color: aqua;
+}
+a:visited{
+    color: rgb(194, 6, 160);
+}
+
+a:hover{
+    background-color: aqua;
+    color: brown;
+}
+
+h1:hover{
+    background-color: chartreuse;
+    color: chocolate;
+}
+
+#field{
+    background-color: yellow;
+}
+#field:focus{
+    background-color: red;
+    color: white;
+}
+
+button{
+    background-color: aqua;
+}
+
+button:active{
+    background-color: crimson;
+} */
+
+*{
+    padding: 0;
+    margin: 0;
+}
+h1 {
+    background-color: aqua;
+    /* border-width: 2px;
+    border-style: solid;
+    border-color: brown; */
+
+    border:2px solid brown ;
+    padding: 20px;
+    margin: 30px;
+}
