@@ -1,0 +1,17 @@
+div {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    transition: all 5s ease;
+}
+
+div:hover{
+    /* transform: scale(0.8); */
+    /* transform: scaleY(0.8); */
+    transform: rotateX(140deg);  
+    /* transform: rotate3d(50deg); */
+    /* transform: skewY(100deg); */
+    /* transform: translateY(100px); */
+    background-color: green;
+    border-radius: 50%;
+}
